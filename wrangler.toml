@@ -1,0 +1,8 @@
+name = "personal-website-worker"
+main = "src/index.ts"
+compatibility_date = "2022-06-28"
+
+
+kv_namespaces = [
+    { binding = "posts", id = "6579aebab7834939a6a235043865e9c8" }
+]
